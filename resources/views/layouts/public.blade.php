@@ -106,7 +106,7 @@
         </div>
 
         <div class="border-t border-gray-700 mt-8 pt-4 text-center text-xs text-gray-500">
-            &copy; 2025 DJM Outdoor • Dobrig Jaya Muda Outdoor Equipment. All rights reserved.
+            &copy; {{ date('Y') }} DJM Outdoor • Dobrig Jaya Muda Outdoor Equipment. All rights reserved.
         </div>
     </footer>
 
